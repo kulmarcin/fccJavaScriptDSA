@@ -8,5 +8,6 @@
 <p>JavaScript Algorithms and Data Structures Projects</p>
 <ul>
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/palindromeChecker">Palindrome checker</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/caesarsCipher">Caesars Cipher</li>
 </ul>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures">LINK TO FCC</a>
