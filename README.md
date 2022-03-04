@@ -4,6 +4,8 @@
 <p>Basic Algorithm Scripting</p>
 <ul>
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/booWho">Boo who</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/confirmEnding">Confirm the Ending</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/chunkyMonkey">Chunky Monkey</a></li> 
 </ul>
 <p>Intermediate Algorithm Scripting</p>
 <ul>
@@ -14,5 +16,6 @@
 <ul>
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/palindromeChecker">Palindrome checker</a></li> 
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/caesarsCipher">Caesars Cipher</li>
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/cashRegister">Cash Register</li>
 </ul>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures">LINK TO FCC</a>
