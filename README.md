@@ -13,6 +13,9 @@
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/argumentsOptional">Arguments Optional</a></li> 
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/binaryAgents">Binary Agents</a></li> 
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/convertHTMLEntities">Convert HTML Entities</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/diffTwoArrays">Diff Two Arrays</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/dnaPairing">DNA Pairing</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/dropIt">Drop it</a></li> 
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
 <ul>
