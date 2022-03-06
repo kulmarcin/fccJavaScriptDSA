@@ -26,4 +26,5 @@
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/cashRegister">Cash Register</li>
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/convertToRoman">Roman Numeral Converter</li>
 </ul>
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures">LINK TO FCC</a>
+<br>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures">freeCodeCamp Algorithms and Data Structures</a>
