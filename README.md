@@ -8,6 +8,8 @@
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/chunkyMonkey">Chunky Monkey</a></li> 
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/convertCtoF">Convert Celsius to Fahrenheit</a></li> 
   <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/factorializeNumber">Factorialize a Number</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/falsyBouncer">Falsy Bouncer</a></li> 
+  <li><a href="https://github.com/kulmarcin/freeCodeCamp-JavaScript-DSA/tree/main/findersKeepers">Finders Keepers</a></li> 
 </ul>
 <p>Intermediate Algorithm Scripting</p>
 <ul>
