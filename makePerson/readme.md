@@ -1,3 +1,5 @@
+<h1>Make a Person</h1>
+
 <strong>I had to do this challenge in vanilla JavaScript because the only way to use keyword THIS in Typescript is in Classes - we can't implement traditional functions to create classes in TypeScript. </strong>
 
 Fill in the object constructor with the following methods below:
