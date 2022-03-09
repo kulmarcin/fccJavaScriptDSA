@@ -1,3 +1,5 @@
+<h1>Map the Debris</h1>
+
 Return a new array that transforms the elements' average altitude into their orbital periods (in seconds).
 
 The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
