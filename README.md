@@ -22,6 +22,8 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/dnaPairing">DNA Pairing</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/dropIt">Drop it</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/everythingBeTrue">Everything Be True</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/makePerson">Make a Person</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/mapTheDebris">Map the Debris</a></li> 
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
 <ul>
