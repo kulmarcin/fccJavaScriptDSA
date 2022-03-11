@@ -13,6 +13,8 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/longestWordInString">Find The Longest Word In a String</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/largestNumbersInArrays">Return Largest Numbers In Arrays</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/mutations">Mutations</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/repeatString">Repeat a string</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/reverseString">Reverse a string</a></li> 
 </ul>
 <p>Intermediate Algorithm Scripting</p>
 <ul>
@@ -27,6 +29,8 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/mapTheDebris">Map the Debris</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/missingLetters">Missing Letters</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/pigLatin">Pig Latin</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/searchAndReplace">Search and Replace</a></li> 
+  
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
 <ul>
