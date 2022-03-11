@@ -1,3 +1,5 @@
+<h1>Search and Replace</h1>
+
 Perform a search and replace on the sentence using the arguments provided and return the new sentence.
 
 First argument is the sentence to perform the search and replace on.
