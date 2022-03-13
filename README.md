@@ -33,6 +33,9 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/searchAndReplace">Search and Replace</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/seekAndDestroy">Seek and Destroy</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/smallestCommonMultiple">Smallest Common Multiple</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sortedUnion">Sorted Union</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/spinalTapCase">Spinal Tap Case</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/steamroller">Steamroller</a></li> 
   
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
