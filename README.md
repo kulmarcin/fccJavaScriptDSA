@@ -36,6 +36,9 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sortedUnion">Sorted Union</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/spinalTapCase">Spinal Tap Case</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/steamroller">Steamroller</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumAllOddFibonacci">Sum All Odd Fibonacci Numbers</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumAllPrimes">Sum All Primes</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumInRange">Sum All Numbers in a Range</a></li> 
   
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
