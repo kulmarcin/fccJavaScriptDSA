@@ -16,6 +16,8 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/repeatString">Repeat a string</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/reverseString">Reverse a string</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sliceAndSplice">Slice and splice</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/titleCaseSentence">Title Case a Sentence</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/truncateString">Truncate a String</a></li> 
 </ul>
 <p>Intermediate Algorithm Scripting</p>
 <ul>
@@ -47,6 +49,7 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/caesarsCipher">Caesars Cipher</li>
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/cashRegister">Cash Register</li>
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/convertToRoman">Roman Numeral Converter</li>
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/telephoneNumberValidator">Telephone Number Validator</li>
 </ul>
 <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures">freeCodeCamp Algorithms and Data Structures</a>
