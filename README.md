@@ -18,6 +18,7 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sliceAndSplice">Slice and splice</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/titleCaseSentence">Title Case a Sentence</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/truncateString">Truncate a String</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/whereDoIBelong">Where Do I Belong</a></li> 
 </ul>
 <p>Intermediate Algorithm Scripting</p>
 <ul>
@@ -41,6 +42,7 @@
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumAllOddFibonacci">Sum All Odd Fibonacci Numbers</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumAllPrimes">Sum All Primes</a></li> 
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/sumInRange">Sum All Numbers in a Range</a></li> 
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA/tree/main/whereforeArtThou">Wherefore Art Thou</a></li> 
   
 </ul>
 <p>JavaScript Algorithms and Data Structures Projects</p>
